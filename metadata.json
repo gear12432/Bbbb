@@ -1,0 +1,6 @@
+{
+  "name": "NoteForge - Modern Smart Notepad",
+  "description": "An elegant, Notion & Apple Notes-inspired notepad application with rich markdown editing, instant auto-save, folders, tags, trash bin, dark mode, backup/export, and server-side Gemini AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
